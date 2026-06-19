@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Morning Run",
+    "date": "2025-06-20",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "location": "Memorial Park"
+  },
+  {
+    "title": "Rainy Meeting",
+    "date": "2025-06-20",
+    "start_time": "14:00",
+    "end_time": "15:30",
+    "location": "Office"
+  },
+  {
+    "title": "Thunderstorm Picnic",
+    "date": "2025-06-20",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "location": "Park"
+  },
+  {
+    "title": "Hot Afternoon Walk",
+    "date": "2025-06-20",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "location": "Outdoors"
+  },
+  {
+    "title": "Freezing Appointment",
+    "date": "2025-06-22",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "location": "Downtown"
+  }
+]
