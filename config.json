@@ -1,0 +1,13 @@
+{
+  "latitude": 29.7604,
+  "longitude": -95.3698,
+  "location_name": "Houston, TX",
+  "units": "imperial",
+  "cache_ttl_minutes": 60,
+  "thresholds": {
+    "rain_pct": 50,
+    "temp_high_f": 95,
+    "temp_low_f": 32,
+    "wind_mph": 30
+  }
+}

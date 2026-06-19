@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Morning Run",
+    "date": "2025-06-20",
+    "start_time": "07:00",
+    "end_time": "08:00",
+    "location": "Memorial Park"
+  },
+  {
+    "title": "Team Standup",
+    "date": "2025-06-20",
+    "start_time": "09:00",
+    "end_time": "09:30",
+    "location": "Office"
+  },
+  {
+    "title": "Lunch with Sarah",
+    "date": "2025-06-20",
+    "start_time": "12:30",
+    "end_time": "13:30",
+    "location": "The Capital Grille"
+  },
+  {
+    "title": "Client Presentation",
+    "date": "2025-06-20",
+    "start_time": "14:00",
+    "end_time": "15:30",
+    "location": "Conference Room B"
+  },
+  {
+    "title": "Evening Walk",
+    "date": "2025-06-21",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "location": "Buffalo Bayou Park"
+  },
+  {
+    "title": "Grocery Run",
+    "date": "2025-06-21",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "location": "HEB"
+  },
+  {
+    "title": "Dentist Appointment",
+    "date": "2025-06-22",
+    "start_time": "09:30",
+    "end_time": "10:30",
+    "location": "Downtown Dental"
+  },
+  {
+    "title": "Rooftop Happy Hour",
+    "date": "2025-06-22",
+    "start_time": "17:00",
+    "end_time": "20:00",
+    "location": "Spire Bar"
+  }
+]
